@@ -32,78 +32,79 @@ Mathematics
            Trailing Zeros in Factorial 
            GCD or HCF of two Numbers 
            LCM of Two Numbers 
-  Check for Prime 
-  Prime Factors 
-  All Divisors of a Number 
-  Sieve of Eratosthenes 
-  Computing Power 
-  Iterative Power 
+           Check for Prime 
+           Prime Factors 
+           All Divisors of a Number 
+           Sieve of Eratosthenes 
+           Computing Power 
+           Iterative Power 
 
 Bit Magic
 =========    	
-  Bitwise Operators in CPP (Part 1) 
-  Bitwise Operators in CPP (Part 2) 
-  Bitwise Operators in Java (Part 1) 
-  Bitwise Operators in Java (Part 2) 
-  Bitwise Operators in Java (Part 3) 
-  Check Kth bit is set or not 
-  Count set bits 
-  Power of Two 
-  One Odd Occurring 
-  Two Odd Occurring 
-  Power Set using Bitwise 
+          Bitwise Operators in CPP (Part 1) 
+          Bitwise Operators in CPP (Part 2) 
+          Bitwise Operators in Java (Part 1) 
+          Bitwise Operators in Java (Part 2) 
+          Bitwise Operators in Java (Part 3) 
+          Check Kth bit is set or not 
+          Count set bits 
+          Power of Two 
+          One Odd Occurring 
+          Two Odd Occurring 
+          Power Set using Bitwise 
 
 Recursion	  
 ==========
-  Recursion Introduction 
-  Applications of Recursion 
-  Recursion Output Practice - Part 1 
-  Recursion Output Practice - Part 2 
-  Print N to 1 Using Recursion 
-  Print 1 to N Using Recursion 
-  Tail Recursion 
-  Writing Base Cases in Recursion 
-  Natural Number Sum using Recursion 
-  Palindrome Check using Recursion 
-  Sum of Digits Using Recursion 
-  Rope Cutting Problem 
-  Generate Subsets 
-  Tower of Hanoi 
-  Josephus Problem 
-  Subset Sum Problem (Recursive Solution) 
-  Printing all Permutations 
+             Recursion Introduction 
+             Applications of Recursion 
+             Recursion Output Practice - Part 1 
+             Recursion Output Practice - Part 2 
+             Print N to 1 Using Recursion 
+             Print 1 to N Using Recursion 
+             Tail Recursion 
+              Writing Base Cases in Recursion 
+            Natural Number Sum using Recursion 
+             Palindrome Check using Recursion 
+           Sum of Digits Using Recursion 
+           Rope Cutting Problem 
+            Generate Subsets 
+           Tower of Hanoi 
+            Josephus Problem 
+           Subset Sum Problem (Recursive Solution) 
+            Printing all Permutations 
 
 Arrays 
 =======
-  Introduction to Arrays 
-  Array Types 
-  Vector in C++ 
-  ArrayList in Java 
-  Operations on Arrays (Part 1) 
-  Operations on Arrays (Part 2) 
-  Largest Element in an Array 
-  Second Largest Element in Array 
-  Check if an Array is Sorted 
-  Reverse an Array 
-  Remove duplicates from a sorted array 
-  Move Zeros to End 
-  Left Rotate an Array by One 
-  Left Rotate an Array by D places 
-  Leaders in an Array problem 
-  Maximum Difference Problem with Order 
-  Frequencies in a Sorted Array 
-  Stock Buy and Sell Problem (Part 1) 
-  Stock Buy and Sell problem (Part 2) 
-  Trapping Rain Water 
-  Maximum consecutive 1s 
-  Maximum subarray sum 
-  Longest Even Odd Subarray 
-  Maximum Circular Sum Subarray 
-  Majority Element 
-  Minimum Consecutive Flips 
-  Sliding Window Technique 
-  Prefix Sum Technique (Part 1) 
-  Prefix Sum Technique (Part 2) 
+        Introduction to Arrays 
+        Array Types 
+        Vector in C++ 
+        ArrayList in Java
+	Operations on Arrays (Part 1) 
+        Operations on Arrays (Part 2) 
+        Largest Element in an Array 
+        Second Largest Element in Array 
+        Check if an Array is Sorted 
+        Reverse an Array 
+        Remove duplicates from a sorted array 
+        Move Zeros to End 
+        Left Rotate an Array by One 
+        Left Rotate an Array by D places 
+        Leaders in an Array problem 
+         Maximum Difference Problem with Order 
+        Frequencies in a Sorted Array 
+        Stock Buy and Sell Problem (Part 1) 
+         Stock Buy and Sell problem (Part 2) 
+         Trapping Rain Water  
+       Maximum consecutive 1s 
+       Maximum subarray sum 
+       Longest Even Odd Subarray 
+       Maximum Circular Sum Subarray 
+       Majority Element 
+        Minimum Consecutive Flips 
+        Sliding Window Technique 
+       Prefix Sum Technique (Part 1) 
+      Prefix Sum Technique (Part 2) 
+  
 
 	
 Searching
