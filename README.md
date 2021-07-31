@@ -5,7 +5,7 @@ all the content which help you to crack any  interview
 
 DATA STRUCTURE IMPORTANT TOPICS
 ===============================
-Introduction	    	
+1)Introduction	    	
 ===========
         -  Analysis of Algorithms(Background) 
         - Asymptotic Analysis 
@@ -23,7 +23,7 @@ Introduction
         - Upper Bounds Using Recursion Tree Method 
         - Space Complexity 
 
-Mathematics
+2)Mathematics
 ===========	   	
          - Mathematics 
          - Count Digits 
@@ -39,7 +39,7 @@ Mathematics
            Computing Power 
            Iterative Power 
 
-Bit Magic
+3)Bit Magic
 =========    	
           Bitwise Operators in CPP (Part 1) 
           Bitwise Operators in CPP (Part 2) 
@@ -53,7 +53,7 @@ Bit Magic
           Two Odd Occurring 
           Power Set using Bitwise 
 
-Recursion	  
+4)Recursion	  
 ==========
              Recursion Introduction 
              Applications of Recursion 
@@ -73,7 +73,7 @@ Recursion
            Subset Sum Problem (Recursive Solution) 
             Printing all Permutations 
 
-Arrays 
+5)Arrays 
 =======
         Introduction to Arrays 
         Array Types 
@@ -107,7 +107,7 @@ Arrays
   
 
 	
-Searching
+6)Searching
 ========	     
      Binary Search (Iterative) 
      Binary Search (Recursive) 
@@ -128,7 +128,7 @@ Searching
      Allocate Minimum Pages (Naive Method) 
      Allocate Minimum Pages (Binary Search) 	
 
-Sorting
+7)Sorting
 ======	   	
     Sort in C++ STL 
     Sorting in Java 
@@ -170,8 +170,8 @@ Sorting
     Bucket Sort 
     Overview of sorting algorithm 
 
-Matrix
-=====
+8)Matrix
+=========
     Multidimensional array in CPP 
     Passing 2D arrays as arguments in CPP 
     Multidimensional array in Java 
@@ -186,8 +186,8 @@ Matrix
     Median of a Row Wise Sorted Matrix Java 
 	   	
 
-Hashing	
-=======
+9)Hashing	
+==========
     Introduction to Hashing 
     Hashing Application 
     Direct Address Table 
@@ -218,8 +218,8 @@ Hashing
     More than n/k Occurences 
     More than n/k Occurences (O(nk) solution) 
  
-Strings   	
-======
+10)Strings   	
+===========
     Introduction to String 
     Strings in C++ 
     String in Java 
@@ -240,8 +240,8 @@ Strings
     Lexicographic Rank of a String 
     Longest Substring with Distinct Characters 
 
-Linked List	    
-=========
+11)Linked List	    
+===============
      Problems With Array Data Structures 
      Introduction to Linked List 
      Simple Linked List Implementation in C++ 
@@ -293,8 +293,8 @@ Linked List
      Merge two sorted linked lists 
      Palindrome Linked List 	
 
-Stack	  
-====
+12)Stack	  
+=========
      Stack Data Structure 
      Array Implementation of Stack in C++ 
      Array Implementation of Stack in Java 
@@ -322,8 +322,8 @@ Stack
      Infix to Prefix (Efficient Solution) 
      Evaluation of Prefix 
 
-Queue	   
-======
+13)Queue	   
+=========
      Queue Data Structure 
      Application of Queue Data structure 
      Implementation of Queue using Array 
@@ -334,8 +334,8 @@ Queue
      Reversing a Queue 
      Generate numbers with given digits 	
 
-Deque	
-=====
+14)Deque	
+=========
      Deque Data Structure 
      Array Implementation of Deque 
      Deque in C++ STL 
@@ -345,8 +345,8 @@ Deque
      Maximums of all subarrays of size k 
      First Circular Tour 
 	
-Tree
-====	
+15)Tree
+========	
     Tree Data Structure 
     Application of Tree 
     Binary Tree 
@@ -379,8 +379,8 @@ Tree
     Iterative Preorder Traversal (Space Optimized) 
 	
 
-Binary Search Tree	
-================
+16)Binary Search Tree	
+======================
      Binary Search Tree(Background) 
      Binary Search Tree(Introduction) 
      Search in BST (Introduction) 
@@ -414,8 +414,8 @@ Binary Search Tree
      Top View of Binary Tree 
      Bottom View of Binary Tree 
 
-Heap 	
-=====
+17)Heap 	
+=========
      Binary Heap Introduction 
      Binary Heap Implementation 
      Binary Heap Insert 
@@ -431,8 +431,8 @@ Heap
      Merge K Sorted Arrays 
      Median of a Stream 
 
-Graph	
-=====
+18)Graph	
+=========
 	  Introduction to Graph 
           Graph Representation (Adjacency Matrix) 
           Graph Representation (Adjacency List) 
@@ -464,8 +464,8 @@ Graph
           Tarjans Algorithm 
           Kruskal's Algorithm 
 
-Greedy	  
-======
+19)Greedy	  
+=========
      Introduction to Greedy Algorithms 
      Activity Selection Problem 
      Activity Selection Solution in C++ 
@@ -479,15 +479,15 @@ Greedy
      CPP Implementation of Huffman coding 
      Java Implementation of Huffman coding 
 
-Backtracking	
-===========
+20)Backtracking	
+===============
      Concepts of Backtracking 
      Rat In a Maze 
      N Queen Problem 
      Sudoku Problem 
 
-Dynamic Programming	
-===================
+21)Dynamic Programming	
+=======================
      Introduction to DP 
      Dynamic Programming Memoization 
      Dynamic Programming Tabulation 
@@ -519,15 +519,15 @@ Dynamic Programming
      Allocate Minimum Pages (Naive Method) 
      Allocate Minimum Pages (DP Solution) 
 
-Trie	   
-===	
+22)Trie	   
+=======	
      Trie Data Structure (Introduction) 
      Trie (Representation, Search and Insert) 
      Trie Delete 
      Count Distinct Rows in a Binary Matrix 
 
-Segment and Binary Indexed Trees	    
-============================	
+23)Segment and Binary Indexed Trees	    
+===================================	
         Segment Tree (Introduction) 
         Constructing Segment Tree 
         Range Query on Segment Tree 
@@ -538,8 +538,8 @@ Segment and Binary Indexed Trees
         Binary Indexed Tree (Prefix Sum Implementaion) 
         Binary Indexed Tree (Update Operation) 
 
-Disjoint Set
-==========
+24)Disjoint Set
+===================
      Disjoint Set Introduction 
      Find and Union Operations on Disjoint Sets 
      Union by Rank 
