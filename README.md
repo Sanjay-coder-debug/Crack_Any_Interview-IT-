@@ -1,4 +1,4 @@
-# Crack_Any_Interview-IT-
+## Daily Practice Program
 all the content which help you to crack any  interview 
 
 
@@ -539,7 +539,7 @@ DATA STRUCTURE IMPORTANT TOPICS
         Binary Indexed Tree (Update Operation) 
 
 24)Disjoint Set
-===================
+===============
      Disjoint Set Introduction 
      Find and Union Operations on Disjoint Sets 
      Union by Rank 
@@ -549,7 +549,7 @@ DATA STRUCTURE IMPORTANT TOPICS
      
 
 ALGORITHM IMPORTANT TOPICS
-================================
+==========================
 
 PROGRAM ON NUMBER
 =================
@@ -557,7 +557,7 @@ PROGRAM ON NUMBER
 
 
 PROGRAM ON PATTERN
-==================
+------------------
                                                    
 				Print these patterns using loops:
 				
