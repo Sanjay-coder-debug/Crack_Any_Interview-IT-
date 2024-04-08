@@ -3,10 +3,12 @@ all the content which help you to crack any  interview
 
 
 
-DATA STRUCTURE IMPORTANT TOPICS
-===============================
-1)Introduction	    	
-===========
+DATA STRUCTURE
+--------------
+<details>
+	
+1)Introduction
+---------------
         -  Analysis of Algorithms(Background) 
         - Asymptotic Analysis 
         - Order of Growth 
@@ -24,7 +26,8 @@ DATA STRUCTURE IMPORTANT TOPICS
         - Space Complexity 
 
 2)Mathematics
-===========	   	
+--------------
+
          - Mathematics 
          - Count Digits 
          - Palindrome Numbers 
@@ -40,7 +43,7 @@ DATA STRUCTURE IMPORTANT TOPICS
          - Iterative Power 
 
 3)Bit Magic
-=========    	
+-----------
           - Bitwise Operators in CPP (Part 1) 
           - Bitwise Operators in CPP (Part 2) 
           - Bitwise Operators in Java (Part 1) 
@@ -54,7 +57,8 @@ DATA STRUCTURE IMPORTANT TOPICS
           - Power Set using Bitwise 
 
 4)Recursion	  
-==========
+------------
+
           - Recursion Introduction 
           - Applications of Recursion 
           - Recursion Output Practice - Part 1 
@@ -74,7 +78,7 @@ DATA STRUCTURE IMPORTANT TOPICS
           - Printing all Permutations 
 
 5)Arrays 
-=======
+---------
         - Introduction to Arrays 
         - Array Types 
         - Vector in C++ 
@@ -108,7 +112,7 @@ DATA STRUCTURE IMPORTANT TOPICS
 
 	
 6)Searching
-========	     
+-----------     
      Binary Search (Iterative) 
      Binary Search (Recursive) 
      Analysis of Binary Search 
@@ -129,7 +133,7 @@ DATA STRUCTURE IMPORTANT TOPICS
      Allocate Minimum Pages (Binary Search) 	
 
 7)Sorting
-======	   	
+---------	
     Sort in C++ STL 
     Sorting in Java 
     Arrays.sort in Java 
@@ -171,7 +175,7 @@ DATA STRUCTURE IMPORTANT TOPICS
     Overview of sorting algorithm 
 
 8)Matrix
-=========
+--------
     Multidimensional array in CPP 
     Passing 2D arrays as arguments in CPP 
     Multidimensional array in Java 
@@ -187,7 +191,7 @@ DATA STRUCTURE IMPORTANT TOPICS
 	   	
 
 9)Hashing	
-==========
+---------
     Introduction to Hashing 
     Hashing Application 
     Direct Address Table 
@@ -219,7 +223,7 @@ DATA STRUCTURE IMPORTANT TOPICS
     More than n/k Occurences (O(nk) solution) 
  
 10)Strings   	
-===========
+----------
     Introduction to String 
     Strings in C++ 
     String in Java 
@@ -241,7 +245,7 @@ DATA STRUCTURE IMPORTANT TOPICS
     Longest Substring with Distinct Characters 
 
 11)Linked List	    
-===============
+--------------
      Problems With Array Data Structures 
      Introduction to Linked List 
      Simple Linked List Implementation in C++ 
@@ -294,7 +298,7 @@ DATA STRUCTURE IMPORTANT TOPICS
      Palindrome Linked List 	
 
 12)Stack	  
-=========
+--------
      Stack Data Structure 
      Array Implementation of Stack in C++ 
      Array Implementation of Stack in Java 
@@ -323,7 +327,7 @@ DATA STRUCTURE IMPORTANT TOPICS
      Evaluation of Prefix 
 
 13)Queue	   
-=========
+--------
      Queue Data Structure 
      Application of Queue Data structure 
      Implementation of Queue using Array 
@@ -335,7 +339,7 @@ DATA STRUCTURE IMPORTANT TOPICS
      Generate numbers with given digits 	
 
 14)Deque	
-=========
+---------
      Deque Data Structure 
      Array Implementation of Deque 
      Deque in C++ STL 
@@ -346,7 +350,7 @@ DATA STRUCTURE IMPORTANT TOPICS
      First Circular Tour 
 	
 15)Tree
-========	
+-------	
     Tree Data Structure 
     Application of Tree 
     Binary Tree 
@@ -380,7 +384,7 @@ DATA STRUCTURE IMPORTANT TOPICS
 	
 
 16)Binary Search Tree	
-======================
+---------------------
      Binary Search Tree(Background) 
      Binary Search Tree(Introduction) 
      Search in BST (Introduction) 
@@ -415,7 +419,7 @@ DATA STRUCTURE IMPORTANT TOPICS
      Bottom View of Binary Tree 
 
 17)Heap 	
-=========
+-------
      Binary Heap Introduction 
      Binary Heap Implementation 
      Binary Heap Insert 
@@ -432,7 +436,7 @@ DATA STRUCTURE IMPORTANT TOPICS
      Median of a Stream 
 
 18)Graph	
-=========
+--------
 	  Introduction to Graph 
           Graph Representation (Adjacency Matrix) 
           Graph Representation (Adjacency List) 
@@ -465,7 +469,7 @@ DATA STRUCTURE IMPORTANT TOPICS
           Kruskal's Algorithm 
 
 19)Greedy	  
-=========
+---------
      Introduction to Greedy Algorithms 
      Activity Selection Problem 
      Activity Selection Solution in C++ 
@@ -480,14 +484,14 @@ DATA STRUCTURE IMPORTANT TOPICS
      Java Implementation of Huffman coding 
 
 20)Backtracking	
-===============
+---------------
      Concepts of Backtracking 
      Rat In a Maze 
      N Queen Problem 
      Sudoku Problem 
 
-21)Dynamic Programming	
-=======================
+21)Dynamic Programming
+----------------------
      Introduction to DP 
      Dynamic Programming Memoization 
      Dynamic Programming Tabulation 
@@ -520,14 +524,14 @@ DATA STRUCTURE IMPORTANT TOPICS
      Allocate Minimum Pages (DP Solution) 
 
 22)Trie	   
-=======	
+-------
      Trie Data Structure (Introduction) 
      Trie (Representation, Search and Insert) 
      Trie Delete 
      Count Distinct Rows in a Binary Matrix 
 
 23)Segment and Binary Indexed Trees	    
-===================================	
+-----------------------------------
         Segment Tree (Introduction) 
         Constructing Segment Tree 
         Range Query on Segment Tree 
@@ -539,25 +543,33 @@ DATA STRUCTURE IMPORTANT TOPICS
         Binary Indexed Tree (Update Operation) 
 
 24)Disjoint Set
-===============
+----------------
      Disjoint Set Introduction 
      Find and Union Operations on Disjoint Sets 
      Union by Rank 
      Path Compression 
      Kruskal's Algorithm 
-     
-     
 
-ALGORITHM IMPORTANT TOPICS
-==========================
+     
+</details>
+
+
+ALGORITHM
+----------
+<details>
+</details>
+
 
 PROGRAM ON NUMBER
-=================
+-----------------
+<details>
+</details>
 
 
 
 PROGRAM ON PATTERN
 ------------------
+<details>
                                                    
 				Print these patterns using loops:
 				
@@ -824,18 +836,46 @@ PROGRAM ON PATTERN
                                                12    21
                                                123  321
                                                12344321
+					       
+
+</details>
 
 PROGRAM ON RECURSION
-====================
+--------------------
+<details>
+</details>
 
 
 
 PROGRAM ON STRING
-==================
+-----------------
+<details>
+</details>
 
 
 PROGRAM ON ARRAY
-=================
+----------------
+<details>
+</details>
+
+
+
+
+Competitive Platforms
+---------------------
+
+<details>
+	
+	- GeeksforGeeks
+	- HackerRank
+        - LeetCode
+	- CodeForce
+
+</details>
+
+
+
+
 
 
 
