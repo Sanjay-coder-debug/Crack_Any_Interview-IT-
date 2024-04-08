@@ -554,12 +554,6 @@ DATA STRUCTURE
 </details>
 
 
-ALGORITHM
-----------
-<details>
-</details>
-
-
 PROGRAM ON NUMBER
 -----------------
 <details>
