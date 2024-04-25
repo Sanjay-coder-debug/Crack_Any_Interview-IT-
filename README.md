@@ -557,6 +557,7 @@ DATA STRUCTURE
 PROGRAM ON NUMBER
 -----------------
 <details>
+	
        - prime number
        - palindrome number
        - amstrong number
@@ -578,6 +579,7 @@ PROGRAM ON NUMBER
        - Happy Number Check
        - Area and Perimeter Calculation
        - Random Number Generator
+       
 </details>
 
 
@@ -902,6 +904,7 @@ PROGRAM ON STRING
 PROGRAM ON ARRAY
 ----------------
 <details>
+	
           - Array Sum: Program that calculates the sum of elements in an array.
           - Array Average: Program that calculates the average of elements in an array.
           - Array Maximum: Program that finds the maximum element in an array.
@@ -922,6 +925,7 @@ PROGRAM ON ARRAY
           - Array Median Calculation: Program that calculates the median of elements in an array.
           - Array Majority Element: Program that finds the majority element (element that appears more than n/2 times) in an array.
           - Array Kth Smallest/Largest Element: Program that finds the kth smallest or largest element in an array.
+	  
 </details>
 
 
