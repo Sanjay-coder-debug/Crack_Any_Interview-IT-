@@ -557,6 +557,17 @@ DATA STRUCTURE
 PROGRAM ON NUMBER
 -----------------
 <details>
+       - prime number
+       - palindrome number
+       - amstrong number
+       - factorial number
+       - fibonacci number
+       - sum of numbers
+       - largest and smallest number 
+       - perfect number
+       - square root of number
+       - cube of numbers
+       - number conversion
 </details>
 
 
@@ -837,6 +848,7 @@ PROGRAM ON PATTERN
 PROGRAM ON RECURSION
 --------------------
 <details>
+     
 </details>
 
 
