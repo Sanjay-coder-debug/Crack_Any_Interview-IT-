@@ -568,6 +568,16 @@ PROGRAM ON NUMBER
        - square root of number
        - cube of numbers
        - number conversion
+       - harshed number check
+       - binary number check
+       - GCD(Greatest Common Divisor)
+       - LCM(Least Common Multiple)
+       - Decimal to Roman Numeral Conversion
+       - Roman Numeral to Decimal Conversion
+       - Amicable Numbers Check
+       - Happy Number Check
+       - Area and Perimeter Calculation
+       - Random Number Generator
 </details>
 
 
@@ -856,12 +866,62 @@ PROGRAM ON RECURSION
 PROGRAM ON STRING
 -----------------
 <details>
+    - Reverse the characters in a string.
+    - Palindrome Check
+    - Anagram Check
+    - Vowel Count:
+    - Consonant Count
+    - Word Count
+    - Remove Duplicates
+    - String to Integer
+    - Integer to String
+    - Longest Common Subsequence
+    - String Compression
+    - String Concatenation
+    - String Splitting
+    - Substring Search
+    - String Comparison
+    - String Truncation
+    - String Rotation Check
+    - String Case Conversion
+    - String Padding
+    - String Formatting
+    - String Searching
+    - String Replacement
+    - String Parsing
+    - String Encryption/Decryption
+    - String Sorting
+    - String Validation
+    - String Encoding/Decoding
+    - String Concatenation with Join
+    - String Matching with Regular Expressions
+    - String Tokenization
 </details>
 
 
 PROGRAM ON ARRAY
 ----------------
 <details>
+          - Array Sum: Program that calculates the sum of elements in an array.
+          - Array Average: Program that calculates the average of elements in an array.
+          - Array Maximum: Program that finds the maximum element in an array.
+          - Array Minimum: Program that finds the minimum element in an array.
+          - Array Sorting: Program that sorts elements in an array in ascending or descending order.
+          - Array Reversal: Program that reverses the elements in an array.
+          - Array Search: Program that searches for a specific element in an array.
+          - Array Duplication Check: Program that checks for duplicate elements in an array.
+          - Array Intersection: Program that finds the intersection of two arrays (common elements).
+          - Array Union: Program that finds the union of two arrays (unique elements from both arrays).
+          - Array Merge: Program that merges two arrays into a single array.
+          - Array Rotation: Program that rotates the elements of an array to the left or right by a given number of positions.
+          - Array Palindrome Check: Program that checks if an array is a palindrome (elements read the same forwards and backwards).
+          - Array Frequency Count: Program that counts the frequency of each element in an array.
+          - Array Subarray Sum: Program that finds subarrays with a given sum in an array.
+          - Array Partition: Program that partitions an array into two parts such that the sum of elements in both parts is equal.
+          - Array Unique Elements: Program that removes duplicate elements from an array and returns only unique elements.
+          - Array Median Calculation: Program that calculates the median of elements in an array.
+          - Array Majority Element: Program that finds the majority element (element that appears more than n/2 times) in an array.
+          - Array Kth Smallest/Largest Element: Program that finds the kth smallest or largest element in an array.
 </details>
 
 
