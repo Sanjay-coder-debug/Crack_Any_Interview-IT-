@@ -868,6 +868,7 @@ PROGRAM ON RECURSION
 PROGRAM ON STRING
 -----------------
 <details>
+	
     - Reverse the characters in a string.
     - Palindrome Check
     - Anagram Check
@@ -898,13 +899,14 @@ PROGRAM ON STRING
     - String Concatenation with Join
     - String Matching with Regular Expressions
     - String Tokenization
+    
 </details>
 
 
 PROGRAM ON ARRAY
 ----------------
 <details>
-	
+	=
           - Array Sum: Program that calculates the sum of elements in an array.
           - Array Average: Program that calculates the average of elements in an array.
           - Array Maximum: Program that finds the maximum element in an array.
