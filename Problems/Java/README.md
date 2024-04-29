@@ -3,7 +3,7 @@ How to Run Java in Vs Code
 
    - open terminal
 
-   - java  java SimpleJavaCode.java
+   - java SimpleJavaCode.java
 
    - javac  SimpleJavaCode
 
